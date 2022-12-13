@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently reading **cutting edge machine learning research.**
 
-- 📝 I regularly write articles on [how complex machine learning models work internally.](how complex machine learning models work internally.)
+- 📝 I regularly write articles on **how complex machine learning models work internally**.
 
 - 💬 Ask me about **Transformers, Computer vision.**
 
